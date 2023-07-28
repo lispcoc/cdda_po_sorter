@@ -1,0 +1,24 @@
+{
+  "name": "cdda_po_sorter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lispcoc/cdda_po_sorter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lispcoc/cdda_po_sorter/issues"
+  },
+  "homepage": "https://github.com/lispcoc/cdda_po_sorter#readme",
+  "dependencies": {
+    "fuse.js": "^6.6.2",
+    "gettext-parser": "^7.0.1",
+    "po2json": "^0.4.5"
+  }
+}
